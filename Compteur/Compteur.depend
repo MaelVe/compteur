@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481104111 source:p:\2a\c++\compteur\main.cpp
+	<iostream>
+	"Compteur.h"
+
+1481104630 p:\2a\c++\compteur\include\compteur.h
+
+1481104630 source:p:\2a\c++\compteur\src\compteur.cpp
+	<iostream>
+	"Compteur.h"
+
